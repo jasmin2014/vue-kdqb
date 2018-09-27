@@ -1,0 +1,22 @@
+// 运营管理css
+
+// 页面管理表单
+.page-operate-form
+{   
+    .el-form-item__error{
+        top:90% !important;
+    }
+    .el-upload {
+        .el-icon-plus{
+            border:1px solid #8c939d;
+            border-radius: 3px;
+        }
+    }
+    
+    .is-error{
+        .el-icon-plus{
+            border: 1px solid #f56c6c;
+            color:#f56c6c;
+        }
+    }
+}
